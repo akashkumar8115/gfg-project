@@ -6,6 +6,6 @@
 .heading-small{
 
 }
-.section-tertiary .print:hidden{
+.section-tertiary .max-h-12{
     display:none;
 }
